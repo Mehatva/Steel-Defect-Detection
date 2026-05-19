@@ -35,6 +35,6 @@ The model was trained and evaluated on a balanced dataset of steel surface image
 ## Repository Contents
 
 *   `Steel_Crack_Detection.ipynb`: The complete end-to-end Jupyter Notebook containing data preprocessing, model architecture definition, training loops, evaluation, and Grad-CAM implementation.
-*   `Steel_Crack_Detection_1.pdf`: An exported run of the notebook showcasing the training history graphs, classification reports, and Grad-CAM visualizations.
+*   `Steel_Crack_Detection_Evaluation.pdf`: An exported run of the notebook showcasing the training history graphs, classification reports, and Grad-CAM visualizations.
 
 *(Note: The raw image dataset is omitted from this repository due to size constraints).*
